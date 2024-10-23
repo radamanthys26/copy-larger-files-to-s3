@@ -21,10 +21,10 @@ How to use
 ### 1 - Install Python
 
 ### 2 - Create a Virtual Environment:
-python -m venv venv
+python3 -m venv venv
 
 ### 3 - Activate the Virtual Environment:
-venv\Scripts\activate
+source venv/bin/activate
 
 ### 4 - Install BOTO3
 pip install boto3
